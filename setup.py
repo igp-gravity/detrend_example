@@ -8,6 +8,6 @@ setup(name='detrend-example',
       author='Zhangbei',
       author_email='rular099@gmail.com',
       packages=find_packages(where='.'),
-      py_modules=['detrend_example','demo1']
+      py_modules=['detrend_example','demo1'],
       install_requires=['numpy','matplotlib','pandas','scipy'],
      )
