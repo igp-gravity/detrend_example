@@ -2,7 +2,7 @@
 
 from setuptools import setup,find_packages
 
-setup(name='detrend_example',
+setup(name='detrend-example',
       version='0.1.0',
       description='a detrend example',
       author='Zhangbei',
