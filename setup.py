@@ -8,5 +8,5 @@ setup(name='detrend_example',
       author='Zhangbei',
       author_email='rular099@gmail.com',
       packages=find_packages(),
-      install_requires=['os','numpy','matplotlib','pandas','scipy'],
+      install_requires=['numpy','matplotlib','pandas','scipy'],
      )
